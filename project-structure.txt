@@ -1,0 +1,84 @@
+./project-structure.txt
+./setup.sh
+./.gitignore
+./.slugignore
+./app.py
+./README.md
+./Procfile
+./requirements.txt
+./.python-version
+./.devcontainer/docker-compose.yml
+./.devcontainer/devcontainer.json
+./.devcontainer/Dockerfile
+./.devcontainer/build-assets/make_url.py
+./.devcontainer/build-assets/heroku_config.sh
+./.git/index
+./.git/packed-refs
+./.git/HEAD
+./.git/config
+./.git/description
+./.git/FETCH_HEAD
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/update.sample
+./.git/hooks/push-to-checkout.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/logs/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/info/exclude
+./.git/objects/pack/pack-8d409e94ebba163fb4c43e99b3d49fc8ac114bfb.pack
+./.git/objects/pack/pack-e112d0fbf5b6de27b3e353a23620f387592ed983.rev
+./.git/objects/pack/pack-e112d0fbf5b6de27b3e353a23620f387592ed983.idx
+./.git/objects/pack/pack-8d409e94ebba163fb4c43e99b3d49fc8ac114bfb.rev
+./.git/objects/pack/pack-8d409e94ebba163fb4c43e99b3d49fc8ac114bfb.idx
+./.git/objects/pack/pack-e112d0fbf5b6de27b3e353a23620f387592ed983.pack
+./.git/refs/heads/main
+./.git/refs/remotes/origin/HEAD
+./src/data_management.py
+./src/__pycache__/correlation_analysis.cpython-38.pyc
+./src/__pycache__/data_management.cpython-38.pyc
+./src/machine_learning/evaluate_clf.py
+./src/machine_learning/predictive_analysis_ui.py
+./src/machine_learning/__pycache__/evaluate_clf.cpython-38.pyc
+./src/machine_learning/__pycache__/predictive_analysis_ui.cpython-38.pyc
+./src/machine_learning/__pycache__/evaluate_churn.cpython-38.pyc
+./app_pages/page_cluster.py
+./app_pages/multipage.py
+./app_pages/page_summary.py
+./app_pages/page_project_hypothesis.py
+./app_pages/page_churned_customer_study.py
+./app_pages/page_predict_churn.py
+./app_pages/page_predict_tenure.py
+./app_pages/page_prospect.py
+./app_pages/__pycache__/page_customer_base_churn.cpython-38.pyc
+./app_pages/__pycache__/page_project_hypothesis.cpython-38.pyc
+./app_pages/__pycache__/page_predict_churn.cpython-38.pyc
+./app_pages/__pycache__/page1.cpython-38.pyc
+./app_pages/__pycache__/page_ui.cpython-38.pyc
+./app_pages/__pycache__/page_cluster.cpython-38.pyc
+./app_pages/__pycache__/page_churned_customer_study.cpython-38.pyc
+./app_pages/__pycache__/multipage.cpython-38.pyc
+./app_pages/__pycache__/page_prospect.cpython-38.pyc
+./app_pages/__pycache__/page_summary.cpython-38.pyc
+./app_pages/__pycache__/page_predict_tenure.cpython-38.pyc
+./app_pages/__pycache__/page4.cpython-38.pyc
+./app_pages/__pycache__/page2.cpython-38.pyc
+./app_pages/__pycache__/page3.cpython-38.pyc
+./app_pages/__pycache__/page5.cpython-38.pyc
+./jupyter_notebooks/05 - Modeling and Evaluation - Predict Churn.ipynb
+./jupyter_notebooks/07 - Modeling and Evaluation - Cluster Sklearn.ipynb
+./jupyter_notebooks/02 - Churned Customer Study.ipynb
+./jupyter_notebooks/04 - FeatureEngineering.ipynb
+./jupyter_notebooks/01 - DataCollection.ipynb
+./jupyter_notebooks/03 - DataCleaning.ipynb
+./jupyter_notebooks/06 - Modeling and Evaluation - Predict Tenure.ipynb
